@@ -9,3 +9,7 @@ I am an AI/ML Research Engineer with a background in Telecommunications. I spent
 Before doing my Masters, I worked as a full-time Research Assistant at Qatar University for two years, where I mainly worked developing Reinforcement Learning for wireless communication systems.
 
 For a comprehensive list of my publications, please visit my Google Scholar profile.
+
+# Highlighted Repos ⭐
+
+- [MERLIN](https://github.com/saria-lh/MERLIN) - Checkout MERLIN! A library for simulating 5G Wireless Networks with the ability to include and develope state-of-the-art Reinforcement Learning algorithms.
