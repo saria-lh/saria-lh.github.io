@@ -1,0 +1,56 @@
+# site settings
+
+title: Mhd Saria AL Lahham
+description: Machine Learning Researcher & Engineer
+taglong: Machine Learning Research Engineer
+baseurl: ""
+permalink: pretty
+repo: https://github.com/saria-lh/saria-lh.github.io
+
+# author settings
+author:
+  name: Mhd Saria AL Lahham
+  email: sarea[dot]laham[at]gmail[dot]com
+photo: saria.jpg
+
+# social media links
+
+social:
+  github: saria-lh
+  linkedin: mhd-saria-allahham-792a7119b
+  twitter: 
+  google: https://scholar.google.com/citations?user=2Sht7H0AAAAJ&hl=en
+  cv: CV_Mhd_Saria_T.pdf
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
