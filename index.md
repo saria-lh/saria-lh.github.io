@@ -15,7 +15,7 @@ For a comprehensive list of my publications, please visit my Google Scholar prof
 - [MERLIN](https://github.com/saria-lh/MERLIN) - Checkout MERLIN! A library for simulating 5G Wireless Networks with the ability to integrate and develop state-of-the-art Reinforcement Learning algorithms.
 
 
-# Highlighted Papers 📄
+# Featured Publications 📄
 
 - Multi-Agent Reinforcement Learning for Network Selection and Resource Allocation in Heterogeneous Multi-RAT Networks [📄](https://ieeexplore.ieee.org/abstract/document/9726129).
 - Probabilistic Mobility Load Balancing for Multi-band 5G and Beyond Networks [📄](https://arxiv.org/abs/2401.13792).
