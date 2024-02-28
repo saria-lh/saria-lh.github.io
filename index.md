@@ -13,6 +13,7 @@ For a comprehensive list of my publications, please visit my Google Scholar prof
 # Highlighted Repos ⭐
 
 - [MERLIN](https://github.com/saria-lh/MERLIN) - Checkout MERLIN! A library for simulating 5G Wireless Networks with the ability to integrate and develop state-of-the-art Reinforcement Learning algorithms.
+- [3GPP-chat](https://github.com/saria-lh/3GPP-RAG-chat/tree/main) - Chat with 3GPP standards and documents using Retrieval Augmented Generation (RAG) Locally!
 
 
 # Featured Publications 📄
