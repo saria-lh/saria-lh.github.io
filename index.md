@@ -5,7 +5,9 @@ title: Home
 
 # About
 I am a Senior AI/ML & Wireless Communications Research Engineer. Currently, I serve as the AI R&D Lead at Alexa Translations, Montreal, leading the development and evaluation of Large Language Models (LLMs), and designing systems around them to power top tier professional translation solutions. 
-Previously, I spent a year and a half working for Samsung Research America, AI Center in Montreal, engaging in a variety of projects related to wireless communications, indoor human-state estimation and localization, home automation, and LLMs. Prior to my time at Samsung, I completed my M.Sc. in Computing at Queen's University in 2021. My Master's thesis focused on the development of distributed algorithms for Federated Learning and the Internet of Things (IoT).
+Previously, I spent a year and a half working for Samsung Research America, AI Center in Montreal, engaging in a variety of projects related to wireless communications, indoor human-state estimation and localization, home automation, and LLMs. Prior to my time at Samsung, 
+
+I completed my M.Sc. in Computing at Queen's University in 2021. My Master's thesis focused on the development of distributed algorithms for Federated Learning and the Internet of Things (IoT).
 Before doing my Masters, I worked as a full-time Research Assistant at Qatar University for two years, where I mainly worked developing Reinforcement Learning for wireless communication systems.
 
 For a comprehensive list of my publications, please visit my Google Scholar profile.
