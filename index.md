@@ -4,7 +4,7 @@ title: Home
 ---
 
 # About
-I am an AI/ML Research Engineer with a background in Wireless Communications. I spent a year and a half working for Samsung Research America, AI Center in Montreal, engaging in a variety of projects related to wireless communications, indoor human-state estimation and localization, home automation, and Large Language Models (LLMs). Prior to my time at Samsung, I completed my M.Sc. in Computing at Queen's University in 2021. My Master's thesis focused on the development of distributed algorithms for Federated Learning and the Internet of Things (IoT).
+I am a Senior AI/ML & Wireless Communications Research Engineer. Currently, I serve as the AI R&D Lead at Alexa Translations, Montreal, leading the development and evaluation of Large Language Models (LLMs), and designing systems around them to power top tier professional translation solutions. Previously, I spent a year and a half working for Samsung Research America, AI Center in Montreal, engaging in a variety of projects related to wireless communications, indoor human-state estimation and localization, home automation, and LLMs. Prior to my time at Samsung, I completed my M.Sc. in Computing at Queen's University in 2021. My Master's thesis focused on the development of distributed algorithms for Federated Learning and the Internet of Things (IoT).
 
 Before doing my Masters, I worked as a full-time Research Assistant at Qatar University for two years, where I mainly worked developing Reinforcement Learning for wireless communication systems.
 
@@ -18,6 +18,7 @@ For a comprehensive list of my publications, please visit my Google Scholar prof
 
 # Featured Publications 📄
 
+- Reliable Federated Learning with Auction-Based Incentives at the Extreme Edge (Best paper award IEEE Globecom 2024 IoT and Sensor Networks Symposium) [📄](https://ieeexplore.ieee.org/abstract/document/10901582)
 - Multi-Agent Reinforcement Learning for Network Selection and Resource Allocation in Heterogeneous Multi-RAT Networks [📄](https://ieeexplore.ieee.org/abstract/document/9726129).
 - Probabilistic Mobility Load Balancing for Multi-band 5G and Beyond Networks [📄](https://arxiv.org/abs/2401.13792).
 - Zero Touch Realization of Pervasive Artificial Intelligence as a Service in 6G Networks [📄](https://ieeexplore.ieee.org/abstract/document/10047856).
