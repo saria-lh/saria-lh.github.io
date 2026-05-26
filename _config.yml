@@ -1,7 +1,7 @@
 # site settings
 
 title: Mhd Saria AL Lahham
-description: Machine Learning Researcher & Engineer
+description: Senior AI Researcher and Engineer
 taglong: AI/ML & Wireless Communications Research Engineer
 baseurl: ""
 permalink: pretty
@@ -10,7 +10,7 @@ repo: https://github.com/saria-lh/saria-lh.github.io
 # author settings
 author:
   name: Mhd Saria AL Lahham
-  email: sarea[dot]laham[at]gmail[dot]com
+  email: saria[dot]allahham[at]proton[dot]me
 photo: saria.jpg
 
 # social media links
